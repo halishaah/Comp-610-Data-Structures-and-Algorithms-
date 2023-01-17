@@ -7,8 +7,8 @@ problems in the field.
 
 ## Course objective(s) and learning outcomes:
 - Understand  the concepts, theory and fundamentals of data structures and algorithms
-- Masterthecoredatastructuresincludingarrays,linkedlists,hashtables,stacksandqueues,and trees and graphs
-- Acquireandapplytheknowledgeofalgorithmscomplexityandrunningtimeanalysisand memory footprint
+- Master the core data structures including arrays, linkedlists, hashtables, stacksandqueues, and trees and graphs
+- Acquire and apply the knowledge of algorithms complexity and running time analysis and memory footprint
 - Practice key programming techniques such as recursion and dynamic programming
 - Compare and contrast the basic sorting and searching algorithms
-- Establishabridgetowardsthepracticalandhands-onexperiencewithapplicationandsystem programming
+- Establish a bridge towards the practical and hands-on experience with application and system programming
